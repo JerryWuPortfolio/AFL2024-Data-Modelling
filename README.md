@@ -1,5 +1,5 @@
 # AFL2024-Data-Modelling
-This Data Modelling project contains two major parts, Result Prediction and Result Presentation. Result Prediction will be focusing on match outcome and match margin. Elo and Decision Tree model will be used for outcome prediction, Random Forest and Gradient Boosting model will be used for margin prediction. Result of each model will be presented in a Shiny app with different customisation options.
+This Data Modelling project contains two major parts, Result Prediction and Result Presentation. Result Prediction will be focusing on match outcome and match margin. Elo and Decision Tree model will be used for outcome prediction, Random Forest and Gradient Boosting model will be used for margin prediction. Result of each model will be presented in a Shiny app with different customisation options. 
 
 ## Data Modelling Section
 Data modelling section involves predictive modeling the AFL 2024 finals series using match data from 2024 Home and Away season. Two models will be used to model win probability, and two models will be used for margin prediction. Trained models will be used for prediction on each game of the 2024 AFL finals series.
